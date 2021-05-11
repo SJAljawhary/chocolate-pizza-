@@ -2,7 +2,8 @@
 
 body{
     width: 910px;
-    margin: 50px;
+    margin: 0px auto;
+    
 }
 header{
     height:100px;
@@ -117,4 +118,7 @@ hr:after {
     right: 0;
     left: 50%;
     margin-left: 30px;
+}
+#van img{
+    float:left;
 }
